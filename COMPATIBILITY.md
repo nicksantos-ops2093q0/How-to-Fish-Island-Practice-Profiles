@@ -11,7 +11,7 @@ Last checked: 2026-09-05.
 | Tested game builds | None |
 | Supported application features | None verified |
 | Installer in this package | None |
-| Shared destination | https://flyn.im/Xa-3hO |
+| Shared destination | https://flyn.im/6PCpxq |
 | Download destination contents | Not verified |
 
 ## Validation required
