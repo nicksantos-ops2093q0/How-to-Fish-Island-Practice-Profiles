@@ -81,3 +81,4 @@ Support must be checked per build. A future module should identify the installed
 ---
 
 Independent project. Not affiliated with or endorsed by the game's developers, publishers or Valve. Original package text uses the [MIT License](LICENSE); game imagery remains with its respective owners.
+                                                                                                    
